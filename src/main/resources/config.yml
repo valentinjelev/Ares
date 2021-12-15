@@ -1,0 +1,16 @@
+#===============================#
+#                               #
+# Ares Plugin                   #
+# Version: 1.0                  #
+# Developer: Valentin Zhelev    #
+#                               #
+#===============================#
+Ops:
+- galactic22
+Command: 'ban {playername} &f&l{&4&lAres&f&l} &fНЕ СТЕ ОТОРИЗИРАНО ЛИЦЕ!'
+BLOCKED_COMMANDS:
+  - /pl
+  - /plugins
+  - /bukkit:plugins
+  - /bukkit:?
+  - /?

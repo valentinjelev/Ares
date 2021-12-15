@@ -1,0 +1,9 @@
+name: Ares
+version: '${project.version}'
+main: me.vzhelev.ares.Ares
+authors: [ ValentinZhelev ]
+description: This plugin removes players with OP rights not added to the configuration.
+commands:
+  ares:
+    usage: /<command>
+    description: reload config

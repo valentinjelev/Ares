@@ -4,6 +4,7 @@ This plugin disables commands specified in the configuration and prevents granti
 # Screenshots
 ![alt text](https://cdn.discordapp.com/attachments/768045969199595520/920024284938768384/unknown.png)
 ![alt text](https://cdn.discordapp.com/attachments/768045969199595520/920025048654446592/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/496237265245437982/920598853126856784/unknown.png)
 
 # Config.yml
 ```

@@ -2,7 +2,7 @@ name: Ares
 version: '${project.version}'
 main: me.vzhelev.ares.Ares
 authors: [ ValentinZhelev ]
-description: This plugin removes players with OP rights not added to the configuration.
+description: This plugin disables commands specified in the configuration and prevents granting the OP authority to people not authorized in the plugin configuration.
 commands:
   ares:
     usage: /<command>

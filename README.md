@@ -35,7 +35,7 @@ NO_PERMISSION: '&cНямате право да използвате тази к�
 ares.use
 
 ### License-System
-Now Ares has a license system
+Now Ares has a license system!
 AdvancedLicense - https://www.spigotmc.org/resources/advancedlicense.20823/
 
 ![alt text](https://cdn.discordapp.com/attachments/496237265245437982/921121642980196362/unknown.png)
